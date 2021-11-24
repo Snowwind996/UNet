@@ -1,6 +1,5 @@
-# Dachuang
 
-# 大创卷积神经网络UNet实现项目代码
+# 卷积神经网络UNet实现图像识别代码
 
 URL：[UNet论文](https://arxiv.org/abs/1505.04597). 
 
